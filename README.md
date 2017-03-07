@@ -1,7 +1,7 @@
 # Compiler
-Compilation course project.
+Compilation Principle course project.
 
-Use C++, Java, Python and Haskell implement Merge Sort, and compare these languages' performance.
+Implement Merge Sort with C++, Java, Python and Haskell , and compare their performance.
 
 ## Summary
 
@@ -11,5 +11,5 @@ Use C++, Java, Python and Haskell implement Merge Sort, and compare these langua
 
 Copyright © Gerry.
 
-You can do any thing as you want.
+You can do anything as you want.
 
