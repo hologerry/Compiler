@@ -18,7 +18,7 @@ def merge_sort(lst):
     return merge(left, right)
 
 
-def main():
+if __name__ == "__main__":
     print("Python")
     with open('not_sorted.txt') as inf:
         nums = inf.readlines()
@@ -37,5 +37,3 @@ def main():
     # Prompt user
     print("Done!")
 
-
-main()
